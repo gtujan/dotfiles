@@ -33,6 +33,13 @@ Fixes
  4. Run `./setup`
  5. Profit!
 
+*You don't have write permissions for the /Library/Ruby/Gems/2.6.0 directory
+ 1. Update your path by running
+    echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile
+ 2. Followed by
+    source ~/.bash_profile
+ 3. Profit!
+
 Quickly Get Started in AWS!
 ---------------------------
 
